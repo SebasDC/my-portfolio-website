@@ -75,7 +75,8 @@ color:blue;
 
 #logo {
     max-height: 150px;
-  z-index: 2;
+    z-index: 2;
+    display: inline-block;
 }
 
 #image-container {
